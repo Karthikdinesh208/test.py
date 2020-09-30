@@ -12,4 +12,4 @@ if(b!=0):
     print(mul)
     div=a/b
     print(div)
-print(Successfully executed)
+print(Successfully executed GOOD JOB)
